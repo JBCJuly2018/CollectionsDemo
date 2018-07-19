@@ -22,6 +22,7 @@ public class MoreArrays {
         // Print the elements of the array
         for (int i = 0; i < 10; i++) {
             System.out.printf("Element # %d value is %d\n", i, scores[i]);
+            //System.out.println("Element # " + i + " value is " + scores[i]);
         }
 
         System.out.println("==================================================");
